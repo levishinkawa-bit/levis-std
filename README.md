@@ -1,2 +1,2 @@
 # levis-std
-coisas bem uteis para c++
+classes mais simples de usar com metodos uteis
